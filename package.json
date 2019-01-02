@@ -1,0 +1,20 @@
+{
+  "name": "mathcalculator",
+  "version": "1.0.0",
+  "description": "Custom cordova plugin for Ionic 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Custom",
+    "Plugins",
+    "Calculator",
+    "Ionic",
+    "3",
+    "Ionic",
+    "Cordova"
+  ],
+  "author": "Viraj Kamble",
+  "license": "ISC"
+}
